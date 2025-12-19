@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "xx张三",
+    "position": "首席执行官",
+    "description": "拥有15年科技行业经验，曾在多家知名科技公司担任高管职务。",
+    "avatar": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "xx李四",
+    "position": "技术总监",
+    "description": "人工智能领域专家，拥有10年研发经验，主导过多项国家级科研项目。",
+    "avatar": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "王五",
+    "position": "产品总监",
+    "description": "专注于用户体验和产品设计，曾主导开发过多款爆款产品。",
+    "avatar": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "赵六",
+    "position": "市场总监",
+    "description": "拥有丰富的市场营销经验，擅长品牌建设和市场推广策略。",
+    "avatar": "https://via.placeholder.com/150"
+  }
+]
